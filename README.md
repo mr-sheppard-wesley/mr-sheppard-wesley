@@ -1,5 +1,9 @@
 ## Hi there 👋
+I look after the Teachnology Department at Wesley College in Auckland, teaching Digital Technology
 
+- 🔭 I’m currently working on my Masters Degree in Technological Futures
+- 🌱 I’m currently learning to play the drums
+- 👯 I’m looking to collaborate on any cool AI projects
 <!--
 **mr-sheppard-wesley/mr-sheppard-wesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
